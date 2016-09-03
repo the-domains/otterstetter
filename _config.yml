@@ -1,19 +1,4 @@
-name: Otterstetter
-favicon: null
-layout_spectrum: 0.5136680686846375
 typography_spectrum: 0.3798275461886078
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-72513828-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -25,4 +10,19 @@ color:
   lightness: 0.17197677795775235
   saturation: 0.6471828965004534
   rhythmicContrast: 0.5408102041110396
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5136680686846375
+analytics:
+  google: UA-72513828-1
+  facebook: null
+  twitter: null
+name: Otterstetter
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
